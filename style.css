@@ -95,7 +95,7 @@ img {
 /*home style*/
 
 .header {
-    background-image: url(Home\Background.jpg);
+    background-image: url(Home\ Background.jpg);
     min-height: 100vh;
     background-color: black;
     background-position: top right;
@@ -389,5 +389,6 @@ section .container p{
     color: #fff;
 
 }
+
 
 
