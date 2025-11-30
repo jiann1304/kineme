@@ -1,1 +1,1 @@
-# Photography.html
+# Photography
